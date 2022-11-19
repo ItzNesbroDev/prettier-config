@@ -1,0 +1,12 @@
+{
+  "name": "@itznesbro/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "repository": "https://github.com/ItzNesbroDev/prettier-config",
+  "author": "ItzNesbroDev <asnesbeer3@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": ["index.json"]
+}
